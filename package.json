@@ -1,0 +1,16 @@
+{
+    "name": "galaxy",
+    "version": "3.0.0",
+    "description": "Backup Servers",
+    "main": "main.js",
+    "author": "U_M9 and Humanoid",
+    "dependencies": {
+        "discord.js": "^11.3.2",
+        "erlpack": "^0.1.2",
+        "moment": "^2.22.2",
+        "node-opus": "^0.2.7",
+        "opusscript": "0.0.6",
+        "xmlhttprequest": "^1.8.0",
+        "ytdl-core": "^0.20.2"
+    }
+}
